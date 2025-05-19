@@ -11,4 +11,3 @@ A desktop application built with C# and WinForms for efficient student attendanc
 - 🖥️ User-friendly Windows Forms interface  
 - 🔍 Search and filter student attendance records  
 
----
